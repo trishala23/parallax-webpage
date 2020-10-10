@@ -1,0 +1,154 @@
+h1{
+	text-transform: uppercase;
+	font-size: 40px;
+	  font-family: Impact, Charcoal, sans-serif;
+	  color:#002080;
+
+}
+p{
+	color:white;
+}
+h2{
+	color:#e6e6ff;
+	font-style: italic;
+
+}
+.p-1{
+  
+  background: url(0491_deoghar_1.jpg);
+  min-height: 800px; 
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p-11{
+  
+  background: url(d.jpg);
+  min-height: 800px; 
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p1{
+	height:350px;
+	background-color:#391326;
+	font-size:26px
+
+}
+.p-2{
+  
+  background: url(dassam-ten-stream-jharkhand.jpg);
+  min-height: 800px; 
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.p-3{
+  
+  background: url(drone-shot-of-the-valley.jpg);
+  min-height: 800px; 
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p-31{
+  
+  background: url(pv.jpg);
+  min-height: 800px; 
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.p-4{
+  
+  background: url(jonha.jpg);
+  min-height: 800px; 
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p-41{
+  
+  background: url(jonha2.jpg);
+  min-height: 800px; 
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p-5{
+  
+  background: url(rajrapa.jpg);
+  min-height: 800px; 
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p-51{
+  
+  background: url(r2.jpg);
+  min-height: 800px; 
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p-6{
+  
+  background: url(pa3.jpeg);
+  min-height: 800px; 
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p-61{
+  
+  background: url(pa2.jpeg);
+  min-height: 800px; 
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p-7{
+  
+  background: url(n2.jpeg);
+  min-height: 1000px; 
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p-71{
+  
+  background: url(n1.jpeg);
+  min-height: 800px; 
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
